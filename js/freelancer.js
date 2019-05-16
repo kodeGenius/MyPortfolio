@@ -1,3 +1,4 @@
+// main function start 
 (function($) {
   "use strict"; // Start of use strict
 
